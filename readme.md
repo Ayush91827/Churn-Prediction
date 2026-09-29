@@ -29,6 +29,7 @@ The app provides real-time predictions, telemetry logging (latency, model versio
 ---
 
 ## 📂 Project Structure
+```
 Churn Prediction/
 ├── .streamlit
 ├── Assets/
@@ -42,6 +43,7 @@ Churn Prediction/
 ├── README.md
 ├── requirements.txt
 └── rf_best_threshold
+```
 
 ---
 
