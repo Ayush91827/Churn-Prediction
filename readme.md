@@ -3,7 +3,7 @@
 An interactive machine learning application built with **Streamlit**, **scikit-learn**, and **PostgreSQL (Neon)** to predict customer churn and analyze prediction trends.  
 The app provides real-time predictions, telemetry logging (latency, model version, status), and dashboards for monitoring model performance.
 
-**Live Application:** [View Live Streamlit App]()
+**Live Application:** [View Live Streamlit App](https://churn-prediction-1827.streamlit.app/)
 
 ---
 
@@ -69,6 +69,7 @@ Churn Prediction/
 ## Model Creation
 
 1. Initially a simple logistic regression model was created to see if the results align with the EDA.
+🔗 **Customer Churn Dashboard** [View Live Dashboard](https://public.tableau.com/views/Book1_17908709037120/CustomerChurnDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 2. Then best threshold and hyperparameters were fixed to ensure best model performance.
 
